@@ -1,0 +1,14 @@
+chars palavras = [ [ "ok", "vlw" ] , [ "sim", "td bem" ] ];
+
+leia (palavras [ 0 ] [ 1 ]);
+
+escreva(palavras [ 0 ] [ 1 ]);
+
+
+int v = [
+	[ 4 , 5 , 7 ],
+	[ 5 , 6 , 7]
+];
+
+leia (v [ 1 ] [ 2 ]);
+escreva (v [ 1 ] [ 2 ]);

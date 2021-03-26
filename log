@@ -1,0 +1,14 @@
+/*Compilador FAEN*/
+#include <iostream>
+#include<string.h>
+#include<stdio.h>
+using namespace std;
+int main(void)
+{
+	int  tmp1;
+	int  tmp2;
+	tmp1 = 1;
+	tmp2 = tmp1;
+	cout << tmp2 << endl;
+	return 0;
+}
